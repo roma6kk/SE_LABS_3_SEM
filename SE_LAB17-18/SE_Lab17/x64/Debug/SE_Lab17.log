@@ -1,0 +1,238 @@
+﻿Сборка начата 03.10.2024 22:23:09.
+Уровень детализации журнала: Normal.     1>Проект "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt "..\..\..\..\1-2SEM\2SEM\SE_Lab14\SE_Lab14\Error.cpp" "..\..\..\..\1-2SEM\2SEM\SE_Lab14\SE_Lab14\In.cpp" "..\..\..\..\1-2SEM\2SEM\SE_Lab14\SE_Lab14\Log.cpp" "..\..\..\..\1-2SEM\2SEM\SE_Lab14\SE_Lab14\Parm.cpp" FST.cpp SE_Lab17.cpp
+         Error.cpp
+     1>D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         In.cpp
+     1>D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         Log.cpp
+     1>D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         Parm.cpp
+     1>D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         FST.cpp
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(5,2): error C2653: RELATION: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(6,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(7,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(8,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(9,2): warning C4508: FST::RELATION: функция должна возвращать значение; предполагается возвращаемый тип "void"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(11,2): error C2653: NODE: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(12,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(13,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(14,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(15,2): warning C4508: FST::NODE: функция должна возвращать значение; предполагается возвращаемый тип "void"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(16,2): error C2653: NODE: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(16,22): error C2061: синтаксическая ошибка: идентификатор "RELATION"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(17,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(18,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(19,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(19,25): error C2061: синтаксическая ошибка: идентификатор "RELATION"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(20,13): error C2065: wptr: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(20,21): error C2065: rel: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(23,4): error C2065: relations: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(23,19): error C2065: wptr: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(25,2): warning C4508: FST::NODE: функция должна возвращать значение; предполагается возвращаемый тип "void"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(27,7): error C2039: "FST": не является членом "FST".
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(3,11): message : см. объявление "FST"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(27,36): error C2061: синтаксическая ошибка: идентификатор "NODE"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(28,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(29,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(30,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(31,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(32,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(32,29): error C2065: nstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(33,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(33,21): error C2061: синтаксическая ошибка: идентификатор "NODE"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(35,3): error C2065: rstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(35,23): error C2065: nstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(36,10): error C2065: rstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(36,41): error C2065: nstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(37,3): error C2065: rstates: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,9): error C2065: wptr: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,3): error C2563: несоответствие в списке формальных параметров
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,17): error C2065: n: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(41,4): error C2065: nodes: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(41,15): error C2065: wptr: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(42,2): warning C4508: FST::FST: функция должна возвращать значение; предполагается возвращаемый тип "void"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,17): error C2065: fst: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,22): error C2062: тип "short" не требуется
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,39): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,39): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(58,20): error C2065: fst: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(59,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(59,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+         SE_Lab17.cpp
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(2,22): error C2061: синтаксическая ошибка: идентификатор "_TCHAR"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,5): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,10): error C2065: OUT: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "out"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,14): error C2065: out: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,20): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,25): error C2065: INITOUT: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(9,47): error C2065: argv: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,9): error C2065: out: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,15): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,20): error C3861: getout: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,14): error C2665: "Log::WriteLine": ни одна перегруженная функция не может преобразовать все типы аргументов
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\Log.h(18,7): message : может быть "void Log::WriteLine(Log::LOG,wchar_t *,...)"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,14): message : "void Log::WriteLine(Log::LOG,wchar_t *,...)": невозможно преобразовать аргумент 2 из "const char [7]" в "wchar_t *"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,29): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\Log.h(17,7): message : или       "void Log::WriteLine(Log::LOG,char *,...)"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,14): message : "void Log::WriteLine(Log::LOG,char *,...)": невозможно преобразовать аргумент 2 из "const char [7]" в "char *"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,29): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,14): message : при попытке сопоставить список аргументов "(Log::LOG, const char [7], const char [12], const char [1])"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,14): error C2665: "Log::WriteLine": ни одна перегруженная функция не может преобразовать все типы аргументов
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\Log.h(18,7): message : может быть "void Log::WriteLine(Log::LOG,wchar_t *,...)"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,14): message : "void Log::WriteLine(Log::LOG,wchar_t *,...)": невозможно преобразовать аргумент 2 из "const wchar_t [7]" в "wchar_t *"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,29): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\Log.h(17,7): message : или       "void Log::WriteLine(Log::LOG,char *,...)"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,14): message : "void Log::WriteLine(Log::LOG,char *,...)": невозможно преобразовать аргумент 2 из "const wchar_t [7]" в "char *"
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,29): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+       D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,14): message : при попытке сопоставить список аргументов "(Log::LOG, const wchar_t [7], const wchar_t [13], const wchar_t [1])"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,9): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,22): error C2065: out: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,14): error C3861: WriteIn: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,9): error C2653: LT: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,13): error C2065: LexTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lexTable"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,22): error C2065: lexTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,9): error C2653: IT: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,13): error C2065: IdTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "idTable"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,21): error C2065: idTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,9): error C2653: LA: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,25): error C2065: lexTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,35): error C2065: idTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,13): error C3861: FindLex: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(24,9): error C2065: lexTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(25,9): error C2065: idTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,9): error C2653: LT: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,20): error C2065: lexTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,13): error C3861: Delete: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,9): error C2653: IT: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,20): error C2065: idTable: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,13): error C3861: Delete: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,9): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,20): error C2065: out: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,14): error C3861: Close: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,9): error C2653: Out: не является именем класса или пространства имен
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,25): error C2065: out: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,14): error C3861: WriteError: идентификатор не найден
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(36,9): error C2065: cout: необъявленный идентификатор
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(36,35): error C2065: endl: необъявленный идентификатор
+         Создание кода...
+     1>Сборка проекта "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(9,2): warning C4508: FST::RELATION: функция должна возвращать значение; предполагается возвращаемый тип "void"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(15,2): warning C4508: FST::NODE: функция должна возвращать значение; предполагается возвращаемый тип "void"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(25,2): warning C4508: FST::NODE: функция должна возвращать значение; предполагается возвращаемый тип "void"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(42,2): warning C4508: FST::FST: функция должна возвращать значение; предполагается возвращаемый тип "void"
+
+
+       "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         D:\Poman\prog\C++\1-2SEM\2SEM\SE_Lab14\SE_Lab14\stdafx.h(8,10): fatal  error C1083: Не удается открыть файл включение: FST.h: No such file or directory,
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(5,2): error C2653: RELATION: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(6,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(7,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(8,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(11,2): error C2653: NODE: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(12,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(13,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(14,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(16,2): error C2653: NODE: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(16,22): error C2061: синтаксическая ошибка: идентификатор "RELATION"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(17,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(18,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(19,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(19,25): error C2061: синтаксическая ошибка: идентификатор "RELATION"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(20,13): error C2065: wptr: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(20,21): error C2065: rel: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(23,4): error C2065: relations: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(23,19): error C2065: wptr: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(27,7): error C2039: "FST": не является членом "FST".
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(27,36): error C2061: синтаксическая ошибка: идентификатор "NODE"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(28,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(29,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(30,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(31,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(32,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(32,29): error C2065: nstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(33,3): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(33,21): error C2061: синтаксическая ошибка: идентификатор "NODE"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(35,3): error C2065: rstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(35,23): error C2065: nstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(36,10): error C2065: rstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(36,41): error C2065: nstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(37,3): error C2065: rstates: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,9): error C2065: wptr: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,3): error C2563: несоответствие в списке формальных параметров
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(39,17): error C2065: n: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(41,4): error C2065: nodes: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(41,15): error C2065: wptr: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,17): error C2065: fst: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,22): error C2062: тип "short" не требуется
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,39): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(44,39): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(58,20): error C2065: fst: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(59,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\FST.cpp(59,2): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(2,22): error C2061: синтаксическая ошибка: идентификатор "_TCHAR"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,5): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,10): error C2065: OUT: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "out"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,14): error C2065: out: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,20): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(6,25): error C2065: INITOUT: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(9,47): error C2065: argv: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,9): error C2065: out: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,15): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(11,20): error C3861: getout: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(12,14): error C2665: "Log::WriteLine": ни одна перегруженная функция не может преобразовать все типы аргументов
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(13,14): error C2665: "Log::WriteLine": ни одна перегруженная функция не может преобразовать все типы аргументов
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,9): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,22): error C2065: out: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(18,14): error C3861: WriteIn: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,9): error C2653: LT: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,13): error C2065: LexTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "lexTable"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,22): error C2065: lexTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,9): error C2653: IT: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,13): error C2065: IdTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "idTable"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(20,21): error C2065: idTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,9): error C2653: LA: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,25): error C2065: lexTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,35): error C2065: idTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(22,13): error C3861: FindLex: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(24,9): error C2065: lexTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(25,9): error C2065: idTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,9): error C2653: LT: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,20): error C2065: lexTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(27,13): error C3861: Delete: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,9): error C2653: IT: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,20): error C2065: idTable: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(28,13): error C3861: Delete: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,9): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,20): error C2065: out: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(30,14): error C3861: Close: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,9): error C2653: Out: не является именем класса или пространства имен
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,25): error C2065: out: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(35,14): error C3861: WriteError: идентификатор не найден
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(36,9): error C2065: cout: необъявленный идентификатор
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(36,35): error C2065: endl: необъявленный идентификатор
+
+    Предупреждений: 4
+    Ошибок: 93
+
+Прошло времени 00:00:03.39

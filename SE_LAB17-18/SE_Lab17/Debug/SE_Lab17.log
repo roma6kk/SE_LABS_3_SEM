@@ -1,0 +1,45 @@
+﻿Сборка начата 27.10.2024 17:28:25.
+Уровень детализации журнала: Normal.     1>Проект "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SE_Lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"Debug\\" /Fd"Debug\vc143.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt LexAnalysis.cpp Log.cpp LT.cpp SE_Lab17.cpp
+         LexAnalysis.cpp
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LexAnalysis.cpp(80,17): warning C4305: =: усечение из "int" в "char"
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         Log.cpp
+         LT.cpp
+         SE_Lab17.cpp
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,5): warning C4102: Log: неиспользованная метка
+         Создание кода...
+     1>D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\Debug\SE_Lab17.exe" /INCREMENTAL /ILK:"Debug\SE_Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\Debug\SE_Lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\Debug\SE_Lab17.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\IT.obj
+         Debug\LexAnalysis.obj
+         Debug\Log.obj
+         Debug\LT.obj
+         Debug\Out.obj
+         Debug\Parm.obj
+         Debug\SE_Lab17.obj
+         SE_Lab17.vcxproj -> D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\Debug\SE_Lab17.exe
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab17.tlog\SE_Lab17.lastbuildstate".
+     1>Сборка проекта "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LexAnalysis.cpp(80,17): warning C4305: =: усечение из "int" в "char"
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\SE_Lab17.cpp(19,5): warning C4102: Log: неиспользованная метка
+         D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\SE_Lab17\LT.cpp(23): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 4
+    Ошибок: 0
+
+Прошло времени 00:00:03.50
